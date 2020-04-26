@@ -1,0 +1,42 @@
+header{
+    text-align: center;
+    border-bottom: #1d1b75 solid 3px;
+    color: #1d1b75;
+    padding: 10px;
+    position: fixed;
+    top:0;
+    width: 100%;
+    background: #8f978b;
+}
+
+header a{
+    text-decoration: none;
+    color:black;
+    padding: 5px;
+    font-family: cursive;
+}
+
+#profileContainer{
+    margin-left: 12%;
+    margin-right: 12%;
+    margin-top:200px;
+    margin-bottom:400px;
+    background: bisque;
+}
+
+#ProfileImageDiv{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#profileTopSection h3{
+    text-align: center;
+}
+
+#profileImageDiv img{
+    border-radius: 100%;
+}
+
+#profileContent{
+    text-align: center;
+}
